@@ -162,7 +162,7 @@ if st.button("Calculate BMI"):
 st.markdown("---")
 st.markdown("""
 <div class="footer">
-    © 2025 BMI Calculator | Developed with ❤️ by <a href="https://your-portfolio-link.com" target="_blank">Asia Parveen</a>
+    © 2025 BMI Calculator | Developed with ❤️ by <a href="https://next-js-portfolio-web-6ttt.vercel.app/" target="_blank">Asia Parveen</a>
 </div>
 """, unsafe_allow_html=True)
 
